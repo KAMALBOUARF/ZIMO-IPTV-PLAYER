@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IPTV Player</string>
+    <string name="settings">Paramètres du serveur</string>
+    <string name="refresh">Actualiser la liste</string>
+    <string name="search_hint">Rechercher une chaîne</string>
+    <string name="server_hint">Serveur (http://adresse:port) ou lien M3U</string>
+    <string name="user_hint">Utilisateur (optionnel)</string>
+    <string name="pass_hint">Mot de passe (optionnel)</string>
+    <string name="settings_help">Lien M3U complet : collez-le dans la première case et laissez utilisateur et mot de passe vides. Xtream Codes : saisissez http://adresse:port, puis utilisateur et mot de passe.</string>
+    <string name="save">Enregistrer</string>
+    <string name="cancel">Annuler</string>
+    <string name="no_channels">Aucune chaîne trouvée. Vérifiez l\'adresse du serveur dans les paramètres.</string>
+    <string name="load_error">Erreur de chargement : %1$s</string>
+    <string name="playback_error">Erreur de lecture (%1$s). Touchez pour réessayer.</string>
+    <string name="channels_count">%1$d chaînes</string>
+    <string name="next_channel">Chaîne suivante</string>
+    <string name="prev_channel">Chaîne précédente</string>
+</resources>
